@@ -127,8 +127,7 @@ formspree-key:   https://formspree.io/f/mjkakjkd
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-  
-  colors:
+colors:
   text: "#2d2d2d"
   border: "#f8e2e2"
   link: "#ff8fa3"
@@ -163,7 +162,7 @@ lemon theme:
   background: "#fffdf5"
   light_background: "#fff9e6"
   
-colors theme: # this is the basic theme
+  colors theme: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
   link: "#4a76ee"
