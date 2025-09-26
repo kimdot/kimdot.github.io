@@ -28,7 +28,7 @@ Use this to have subsection if needed -->
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
 <br>
 ## Tour Photos
-{% include image-gallery.html images="The_Wombats.jpg" height="400" %} 
+{% include image-gallery.html images="https://www.digitalavmagazine.com/wp-content/uploads/2025/04/Vari-Lite-VLHive-con-The-Wombats.jpg" height="400" %} 
 <!-- place the images in project folder/images then update the file path. -->  
 
 <br>
