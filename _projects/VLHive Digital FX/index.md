@@ -14,34 +14,34 @@ main-image: /vlhive_beautybeam.jpg
 ---
 
 ---
-# Header 1 
+<!-- # Header 1 
 Used for the title (already generated automatically at the top)
 ## Header 2  
 Use this for the header of each section
 ### Header 3 
-Use this to have subsection if needed
+Use this to have subsection if needed -->
 
 
-## Embedding images 
-### External images
+## VLHive Render and Press Photo 
 {% include image-gallery.html images="https://www.vari-lite.com/content/dam/vari-lite/highlights/press-releases/vlhive/vlhive-announce_highlights-images.png, https://www.vari-lite.com/content/dam/vari-lite/home/innovations/innovation-smartcolor.png" height="400"%}
 <span style="font-size: 10px">"VLHive Digital FX Press Photos" from https://www.vari-lite.com/global/news/releases/vlhive
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
 
-### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
-place the images in project folder/images then update the file path.   
+## Tour Photos
+{% include image-gallery.html images="The-Wombats.jpg" height="400" %} 
+<!-- place the images in project folder/images then update the file path. -->  
 
 
-## Embedding youtube video
+## Press Release Videos
 <!-- ##The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy -->
 {% include youtube-video.html id="63yoIU3PMHY" autoplay= "false" %}
 {% include youtube-video.html id="8lczz3XGcek" autoplay = "false" %}
 
-you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
+<!-- you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
-The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
+The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen. -->
+## AGT Jessica Sanchez performing with VLHive's as main eye candy light
 {% include youtube-video.html id="WyvS4RSstkA" autoplay = "false" width= "900px" %}  
 
 <br>
