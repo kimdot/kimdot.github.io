@@ -8,5 +8,5 @@ skills:
 - Electrical Wiring
 - Motors
 - Testing
-main-image: /VLHIVE RENDER.png
+main-image: /vlhive_render.png
 ---
