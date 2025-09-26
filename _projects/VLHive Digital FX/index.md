@@ -5,6 +5,10 @@ description:  Deeply involved in the mechanical development, manufacturing plann
 skills: 
 - SolidWorks
 - Casting
+- Machining
+- Sheet-metal
+- Plastic Molding
+- Optics
 - Electrical Wiring
 - Motors
 - Testing
@@ -21,7 +25,7 @@ Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed -->
 ## Contributions
-Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286. Responsible for testing engineering prototypes and connecting with vendors to ensure all part specifications are met.
+Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286. Responsible for testing engineering prototypes and connecting with vendors to ensure all part specifications are met, as well as maintaining ECNs and running retrofit operations for future product lines.
 
 
 
@@ -29,7 +33,6 @@ Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as 
 
 ## PR Content
 <br>
-
 ### VLHive Render and Photos
 {% include image-gallery.html images="https://www.vari-lite.com/content/dam/vari-lite/highlights/press-releases/vlhive/vlhive-announce_highlights-images.png, https://www.vari-lite.com/content/dam/vari-lite/home/innovations/innovation-smartcolor.png" height="400"%}
 <span style="font-size: 10px">"VLHive Digital FX Press Photos" from https://www.vari-lite.com/global/news/releases/vlhive
