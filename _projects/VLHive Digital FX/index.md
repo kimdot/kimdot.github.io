@@ -28,10 +28,10 @@ Use this to have subsection if needed -->
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
 <br>
 ## Tour Photos
-{% include image-gallery.html images="The-Wombats.jpg" height="400" %} 
+{% include image-gallery.html images="The_Wombats.jpg" height="400" %} 
 <!-- place the images in project folder/images then update the file path. -->  
 
-
+<br>
 ## Press Release Videos
 <!-- ##The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy -->
@@ -41,6 +41,7 @@ Use this to have subsection if needed -->
 <!-- you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen. -->
+<br>
 ## AGT 2025 Winner Jessica Sanchez performing with VLHive's as main eye candy light center stage
 {% include youtube-video.html id="WyvS4RSstkA" autoplay = "false" width= "900px" %}  
 
