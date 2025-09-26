@@ -20,6 +20,11 @@ Used for the title (already generated automatically at the top)
 Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed -->
+## Contributions
+Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286. Responsible for testing engineering prototypes and connecting with vendors to ensure all part specifications are met.
+
+
+## PR Content
 
 
 ## VLHive Render and Press Photo 
