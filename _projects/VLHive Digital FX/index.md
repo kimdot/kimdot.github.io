@@ -26,7 +26,7 @@ Use this to have subsection if needed -->
 {% include image-gallery.html images="https://www.vari-lite.com/content/dam/vari-lite/highlights/press-releases/vlhive/vlhive-announce_highlights-images.png, https://www.vari-lite.com/content/dam/vari-lite/home/innovations/innovation-smartcolor.png" height="400"%}
 <span style="font-size: 10px">"VLHive Digital FX Press Photos" from https://www.vari-lite.com/global/news/releases/vlhive
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
-
+<br>
 ## Tour Photos
 {% include image-gallery.html images="The-Wombats.jpg" height="400" %} 
 <!-- place the images in project folder/images then update the file path. -->  
@@ -41,11 +41,12 @@ Use this to have subsection if needed -->
 <!-- you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen. -->
-## AGT Jessica Sanchez performing with VLHive's as main eye candy light
+## AGT 2025 Winner Jessica Sanchez performing with VLHive's as main eye candy light center stage
 {% include youtube-video.html id="WyvS4RSstkA" autoplay = "false" width= "900px" %}  
 
 <br>
 
+<!--
 ## Adding a hozontal line
 ---
 
@@ -87,3 +88,4 @@ Italicized text is the *cat's meow*.
 |----------|----------|
 | Row 1, Col 1 | Row 1, Col 2 |
 | Row 2, Col 1 | Row 2, Col 2 |
+-->
