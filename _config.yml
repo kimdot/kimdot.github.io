@@ -76,7 +76,7 @@ skills:
     - CFD
     - FEA
     - Thermal
-    - Bearings % Shafts
+    - Bearings & Shafts
     - Power Transmission
     - DC Motors
     - Cableing
@@ -89,7 +89,7 @@ skills:
     - DFMEA / PFMEA 
     - Six Sigma methodologies
     - Shain Red-X
-    - category: Design for Manufacturing
+  - category: Design for Manufacturing
     tools:
     - Machining
     - Sheet-metal
@@ -99,7 +99,7 @@ skills:
     - Gasket Molding
     - Die Cutting
     - Optics Cutting/Grinding
-    - category: Code Languages
+  - category: Code Languages
     tools:
     - C++
     - Python
@@ -107,14 +107,14 @@ skills:
     - MATLAB
     - Simulink
     - MS Access
-    - category: Data Management
+  - category: Data Management
     tools: 
     - Advanced Excel
     - LabView
     - Smaart (Rational Acoustics)
     - DMX Workshop
     - SolidWorks PDM
-    - category: ERP Systems
+  - category: ERP Systems
     tools:
     - SAP
     - PaperVision
