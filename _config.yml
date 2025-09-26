@@ -7,17 +7,23 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Kim Tran's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Kim Tran
+headline: Mechanical Design Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I hope this site offers you a glimpse into my career as an engineer. I am putting my best work up, as well some of my most passionate ones as well, updating as often as possible.
+ 
+  My name is Kim, and I am a mechanical engineer that specializes in robotics, thermal management, electro-mechanicals, and manufacturing operations.
+  
+  I am currently a full time engineer working on developing entertainment lighting systems. I graduated with honors from The University of North Texas with a Mechanical & Energy Engineering degree.
+  
+  I have natural passion for discovering how gadgets worked, breaking them down and loudly proclaiming that I could design it better. I was always good at math and physics, but once I discovered what engineering was, I realized that I could get paid to break things!
+
+  Feel free to explore my portfolio to learn more about my work and interests.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -31,9 +37,9 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
-  stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
+  linkedin: kimdotranofficial    # https://www.linkedin.com/in/{your url slug} 
+  github: kimdot    # https://github.com/{your url slug} 
+  stackoverflow:      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
   threads:            # https://threads.net/@{your url slug} 
@@ -49,46 +55,77 @@ skills:
     tools:
     - Onshape
     - Solidworks
-    - Creo
+    - ProE/Creo
     - Fusion 360 (Autodesk)
     - Blender (for complex shapes or animations)
-    - Siemens NX
     - Inventor (Autodesk)
     - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
     - SLA
     - CNC
-    - FDM
     - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
+    - 3D Printing
     - Laser Cutting
     - Water Jet Cutting
     - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
   - category: Design Standards / Practices
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+    - GD&T ASME Y14.5
+    - ASME Y14.100
+    - ISO fits and tolerances   
+  - category: Mechanical Design
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
+    - CFD
+    - FEA
+    - Thermal
+    - Bearings % Shafts
+    - Power Transmission
+    - DC Motors
+    - Cableing
+    - Optics
+    - Tooling
+    - Gear Meshing
   - category: Problem Solving / Risk Management
     tools:
     - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
     - DFMEA / PFMEA 
     - Six Sigma methodologies
     - Shain Red-X
+    - category: Design for Manufacturing
+    tools:
+    - Machining
+    - Sheet-metal
+    - Casting
+    - Injection Molding
+    - Gear Hobbing
+    - Gasket Molding
+    - Die Cutting
+    - Optics Cutting/Grinding
+    - category: Code Languages
+    tools:
+    - C++
+    - Python
+    - SQL
+    - MATLAB
+    - Simulink
+    - MS Access
+    - category: Data Management
+    tools: 
+    - Advanced Excel
+    - LabView
+    - Smaart (Rational Acoustics)
+    - DMX Workshop
+    - SolidWorks PDM
+    - category: ERP Systems
+    tools:
+    - SAP
+    - PaperVision
+    - Glovia
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:   https://formspree.io/f/{8-digit key}
+formspree-key:   https://formspree.io/f/mjkakjkd
 
 
 
