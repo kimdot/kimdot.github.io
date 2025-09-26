@@ -25,22 +25,22 @@ Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as 
 
 
 
+<br>
 
+## PR Content
+<br>
 
-## PR Content <br>
-
-
-# VLHive Render and Press Photo 
+### VLHive Render and Photos
 {% include image-gallery.html images="https://www.vari-lite.com/content/dam/vari-lite/highlights/press-releases/vlhive/vlhive-announce_highlights-images.png, https://www.vari-lite.com/content/dam/vari-lite/home/innovations/innovation-smartcolor.png" height="400"%}
 <span style="font-size: 10px">"VLHive Digital FX Press Photos" from https://www.vari-lite.com/global/news/releases/vlhive
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
 <br>
-# Tour Photos
+### Tour Photos
 {% include image-gallery.html images="https://www.digitalavmagazine.com/wp-content/uploads/2025/04/Vari-Lite-VLHive-con-The-Wombats.jpg" height="400" %} 
 <!-- place the images in project folder/images then update the file path. -->  
 
 <br>
-# Press Release Videos
+### Press Release Videos
 <!-- ##The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy -->
 {% include youtube-video.html id="63yoIU3PMHY" autoplay= "false" %}
@@ -50,7 +50,7 @@ Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as 
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen. -->
 <br>
-# AGT 2025 Winner Jessica Sanchez performing with VLHive's as main eye candy light center stage
+### AGT 2025 Winner Jessica Sanchez performing with VLHive's as main eye candy light center stage
 {% include youtube-video.html id="WyvS4RSstkA" autoplay = "false" width= "900px" %}  
 
 <br>
