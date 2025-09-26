@@ -37,7 +37,8 @@ place the images in project folder/images then update the file path.
 The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
 *Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
 {% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+{% include youtube-video.html id="XGC31lmdS6s" autoplay = "false" %}
+{% include youtube-video.html id="{WyvS4RSstkA}" autoplay= "true"%}
 
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
@@ -70,25 +71,6 @@ Italicized text is the *cat's meow*.
 - Third item
 - Fourth item
 
-## Adding code block
-```ruby
-def hello_world
-  puts "Hello, World!"
-end
-```
-
-```python
-def start()
-  print("time to start!")
-```
-
-```javascript
-let x = 1;
-if (x === 1) {
-  let x = 2;
-  console.log(x);
-}
-console.log(x);
 
 ```
 
