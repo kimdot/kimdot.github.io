@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VLHive Digital FX
-description:  Deeply involved in the mechanical development, manufacturing planning, and approbations of this next-generation luminaire. Named inventor on a patent-pending technology from this project.
+description:  Deeply involved in the mechanical development, manufacturing planning, and approbations of this next-generation luminaire. Working quickly in a cross-functiontal team to release the product withing a one year project timeline. Named inventor on a patent-pending technology from this project.
 skills: 
 - SolidWorks
 - Casting
