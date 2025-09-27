@@ -25,21 +25,27 @@ Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed -->
 ## Contributions
-Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286. Responsible for testing engineering prototypes and connecting with vendors to ensure all part specifications are met, as well as maintaining ECNs and running retrofit operations for future product lines.
+- Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286.
+- Routed cables and made cable / wire harness drawings.
+- Responsible for designing and testing engineering prototypes.
+- Connecting with vendors to ensure all part specifications are met.
+- Maintaining ECNs and running retrofit operations for future product lines.
+- Conducted mechanical tests for safety, efficiency, and durability for finished product.
 
 
 
 <br>
 
 ## PR Content
-<br>
+
 ### VLHive Render and Photos
 {% include image-gallery.html images="https://www.vari-lite.com/content/dam/vari-lite/highlights/press-releases/vlhive/vlhive-announce_highlights-images.png, https://www.vari-lite.com/content/dam/vari-lite/home/innovations/innovation-smartcolor.png" height="400"%}
 <span style="font-size: 10px">"VLHive Digital FX Press Photos" from https://www.vari-lite.com/global/news/releases/vlhive
 <!-- You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  -->
 <br>
 ### Tour Photos
-{% include image-gallery.html images="https://www.digitalavmagazine.com/wp-content/uploads/2025/04/Vari-Lite-VLHive-con-The-Wombats.jpg" height="400" %} 
+{% include image-gallery.html images="https://www.digitalavmagazine.com/wp-content/uploads/2025/04/Vari-Lite-VLHive-con-The-Wombats.jpg" height="400" %}
+<span style="font-size: 10px">"VLHive Vari-Lite debuts on the European tour of The Kombats" from https://www.digitalavmagazine.com/en/2025/05/05/vari-lite-vlhive-debuta-en-la-gira-europea-de-the-wombats/
 <!-- place the images in project folder/images then update the file path. -->  
 
 <br>
