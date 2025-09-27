@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VLHive Digital FX
-description:  Deeply involved in the mechanical development, manufacturing planning, and approbations of this next-generation luminaire. Working quickly in a cross-functiontal team to release the product withing a one year project timeline. Named inventor on a patent-pending technology from this project.
+description:  Industrial moving head light that utlizes pan & tilt motors, an LED source, and optical zoom/egde equipment. A highly technical mechatronic system that requires thermal cooling systems, power managment, optical alignment, and robotic control (DMX) all within an IP65 rated enclosure. Used primarily in theaters, broadcast production, and entertainment venues.
 skills: 
 - SolidWorks
 - Casting
@@ -25,6 +25,9 @@ Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed -->
 ## Contributions
+
+Deeply involved in the mechanical development, manufacturing planning, and approbations of this next-generation luminaire. Working quickly in a cross-functiontal team to release the product withing a one year project timeline. Named inventor on a patent-pending technology from this project.
+
 - Created drawing specifications to ASME Y14.1000 and utilized GD&T ASME Y14.5 as well as DIN ISO 286.
 - Routed cables and made cable / wire harness drawings.
 - Responsible for designing and testing engineering prototypes.
