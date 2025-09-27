@@ -24,6 +24,8 @@ Used for the title (already generated automatically at the top)
 Use this for the header of each section
 ### Header 3 
 Use this to have subsection if needed -->
+## LSi Plasa Award for Innovation 2025
+
 ## Contributions
 
 Deeply involved in the mechanical development, manufacturing planning, and approbations of this next-generation luminaire. Working quickly in a cross-functiontal team to release the product withing a one year project timeline. Named inventor on a patent-pending technology from this project.
