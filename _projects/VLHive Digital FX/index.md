@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VLHive Digital FX
-description:  Industrial moving head light that utilizes pan & tilt motors, an LED source, and optical zoom/edge equipment. A highly technical mechatronic system that requires thermal cooling systems, power managment, optical alignment, and robotic control (DMX) all within an IP65 rated enclosure. Used primarily in theaters, broadcast production, and entertainment venues.
+description:  Industrial moving head light that utilizes pan & tilt motors, an LED source, and optical zoom/edge equipment. A highly technical mechatronic system that requires thermal cooling systems, power management, optical alignment, and robotic control (DMX) all within an IP65 rated enclosure. Used primarily in theaters, broadcast production, and entertainment venues.
 skills: 
 - SolidWorks
 - Casting
